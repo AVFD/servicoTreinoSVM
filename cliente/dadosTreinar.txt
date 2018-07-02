@@ -1,0 +1,2 @@
+memoria:2048
+cpu:2
